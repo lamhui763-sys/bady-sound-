@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BB叫聲翻譯器 (Baby Cry Translator)",
+  "description": "An essential parenting app designed to help parents understand the needs behind their baby's cries. Features include real-time cry recording and translation, a history of cry analyses, and practical advice based on the cry type.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
